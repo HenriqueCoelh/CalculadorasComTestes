@@ -1,0 +1,1 @@
+C:\Users\coelh\IdeaProjects\ProjetosExercicios\CalculadoraTestes\build\classes\kotlin\main\Calculadora.class;C:\Users\coelh\IdeaProjects\ProjetosExercicios\CalculadoraTestes\build\classes\kotlin\main\MainKt.class
